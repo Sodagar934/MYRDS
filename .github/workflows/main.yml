@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     name: Start Building...
-    runs-on: windows-latest
+    runs-on: windows-latesat
     timeout-minutes: 9999
     
     steps:
